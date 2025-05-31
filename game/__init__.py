@@ -1,0 +1,3 @@
+"""
+Flappy Bird game package
+""" 
