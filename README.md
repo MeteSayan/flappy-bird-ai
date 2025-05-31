@@ -11,6 +11,14 @@ A Flappy Bird game implementation with an AI agent that learns to play using Dee
 - Configurable game parameters
 - Thread-safe implementation for smooth gameplay
 
+## Demo
+
+### Training Process
+![Training Process](training_bird.gif)
+
+### AI Playing
+![AI Playing](trained_bird.gif)
+
 ## Project Structure
 
 ```

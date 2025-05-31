@@ -38,7 +38,6 @@ models/
 *.png
 *.jpg
 *.jpeg
-*.gif
 
 # Logs
 *.log
